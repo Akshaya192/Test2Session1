@@ -1,1 +1,8 @@
-
+gcc -g p1original.c -lm
+ ./a.out
+enter four numbers
+3
+6
+2
+6
+distance beween two points(3.000000,2.000000) and (6.000000,6.000000) is  19.000000
